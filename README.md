@@ -1,4 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project scope includes creating a system for managing football clubs, including registration, games management, club management, member management, statistics and analytics, communication and notifications, and a website and mobile app for access to information and resources.
+
+## Tech stacks: React.js, Redux.js, Restful APIs & 3rd party services integration
+
+## Project Scope:
+1. Club Registration
+This section of the project will involve creating a system for registering new football clubs and managing their information.
+2. Games Management
+This section of the project will involve creating a system for scheduling, managing, and updating information about football games, including teams, venues, and scores.
+3. Club Management
+This section of the project will involve creating a system for managing club information, including player and staff management, financial and budget management, and contact information.
+4. Member Management
+This section of the project will involve creating a system for managing members of the club, including their contact information, membership status, and access to club resources.
+5. Statistics and Analytics
+This section of the project will involve creating a system for tracking and analyzing data related to clubs and games, such as player and team performance, attendance, and financial information.
+6. Communication and Notification
+This section of the project will involve creating a system for communicating with club members, including sending notifications and updates about games, events, and important information.
 
 ## Available Scripts
 
@@ -27,42 +43,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
