@@ -1,6 +1,7 @@
 The project scope includes creating a system for managing football clubs, including registration, games management, club management, member management, statistics and analytics, communication and notifications, and a website and mobile app for access to information and resources.
 
-## Tech stacks: React.js, Redux.js, Restful APIs & 3rd party services integration
+## Tech stacks:
+React.js, Redux.js, Restful APIs & 3rd party services integration
 
 ## Project Scope:
 1. Club Registration
