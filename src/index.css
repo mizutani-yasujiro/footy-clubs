@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,900&display=swap&subset=latin-ext');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root,
+body,
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fcfcfc;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #eeeeee;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #b2b2b2;
+  border-radius: 6px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #8b8b8b;
+}
+
+::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: #b2b2b2;
+}
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #b2b2b2;
+}
+:-ms-input-placeholder {
+  /* IE 10+ */
+  color: #b2b2b2;
+}
+:-moz-placeholder {
+  /* Firefox 18- */
+  color: #b2b2b2;
+}
+
+#portal {
+  position: relative;
+  z-index: 999;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: #404040;
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+}
+
+video {
+  outline: none;
+  object-fit: cover;
+}
+
+.nationality-flags .flag-select__btn, .nationality-show-flags .flag-select__btn {
+  padding: 0 !important;
+}
+
+.nationality-flags .flag-select__option, .nationality-show-flags .flag-select__option {
+  padding: 0 8px 3px 12px !important;
+}
+
+.nationality-flags .flag-select__option--placeholder, .nationality-show-flags .flag-select__option--placeholder {
+  padding: 0 8px 3px 0px !important;
+}
+
+.nationality-show-flags .flag-select__btn:after {
+  border: none !important
+}

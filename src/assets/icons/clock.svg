@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.5" height="16.5" viewBox="0 0 16.5 16.5">
+  <g id="clock" transform="translate(-0.75 -0.75)">
+    <path id="Path_146" data-name="Path 146" d="M16.5,9A7.5,7.5,0,1,1,9,1.5,7.5,7.5,0,0,1,16.5,9Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_147" data-name="Path 147" d="M9,4.5V9l3,1.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
